@@ -36,5 +36,5 @@ Data Preprocessing:
 - Cross-validation techniques are employed to ensure model robustness.
 
 ### Final Model Selection:
-- Based on the evaluation, the best-performing model is selected.
+- Based on the evaluation, GradientBoosting Classifier model is selected.
 - This model is then used for predicting loan eligibility on new data.
